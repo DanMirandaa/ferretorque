@@ -1,0 +1,6 @@
+{
+  "name": "Ferretorque | Ferretería Industrial & Herramientas",
+  "description": "Ferretería industrial líder en herramientas eléctricas, manuales, fijaciones y seguridad. Atención personalizada y cotizaciones directas por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
