@@ -1,15 +1,20 @@
 import { Product, Testimonial, ServiceFeature } from '../types';
+import heroImage from '../assets/images/hero_ferretorque_warehouse_1792371744392.jpg';
+import powerToolsImage from '../assets/images/cat_power_tools_1792371746087.jpg';
+import handToolsImage from '../assets/images/cat_hand_tools_1792371746195.jpg';
+import fastenersImage from '../assets/images/cat_fasteners_1792371746540.jpg';
+import safetyGearImage from '../assets/images/cat_safety_gear_1792371746771.jpg';
 
 export const WHATSAPP_PHONE = '56987654321';
 export const DISPLAY_PHONE = '+56 9 8765 4321';
 export const STORE_EMAIL = 'ventas@ferretorque.com';
 export const STORE_ADDRESS = 'Av. Industrial 4580, Sector Parque Industrial, Santiago';
 
-export const HERO_IMAGE = '/src/assets/images/hero_ferretorque_warehouse_1792371744392.jpg';
-export const POWER_TOOLS_IMAGE = '/src/assets/images/cat_power_tools_1792371746087.jpg';
-export const HAND_TOOLS_IMAGE = '/src/assets/images/cat_hand_tools_1792371746195.jpg';
-export const FASTENERS_IMAGE = '/src/assets/images/cat_fasteners_1792371746540.jpg';
-export const SAFETY_GEAR_IMAGE = '/src/assets/images/cat_safety_gear_1792371746771.jpg';
+export const HERO_IMAGE = heroImage;
+export const POWER_TOOLS_IMAGE = powerToolsImage;
+export const HAND_TOOLS_IMAGE = handToolsImage;
+export const FASTENERS_IMAGE = fastenersImage;
+export const SAFETY_GEAR_IMAGE = safetyGearImage;
 
 export const CATEGORIES = [
   { id: 'all', label: 'Todo el Catálogo' },
